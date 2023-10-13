@@ -1,0 +1,12 @@
+127.0.0.1 - - [13/Oct/2023:20:14:16 -0300] "GET / HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:17:54 -0300] "GET /ProjetoTrilhaWeb/rest/produto/buscar?valorBusca= HTTP/1.1" 200 610
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:17:54 -0300] "GET /ProjetoTrilhaWeb/rest/marca/carregar HTTP/1.1" 200 149
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:17:56 -0300] "GET /ProjetoTrilhaWeb/rest/marca/buscar?valorBusca= HTTP/1.1" 200 183
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:17:59 -0300] "PUT /ProjetoTrilhaWeb/rest/marca/alterarStatus/11 HTTP/1.1" 200 30
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:17:59 -0300] "GET /ProjetoTrilhaWeb/rest/marca/buscar?valorBusca= HTTP/1.1" 200 183
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:18:02 -0300] "PUT /ProjetoTrilhaWeb/rest/marca/alterarStatus/12 HTTP/1.1" 200 30
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:18:02 -0300] "GET /ProjetoTrilhaWeb/rest/marca/buscar?valorBusca= HTTP/1.1" 200 183
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:18:06 -0300] "PUT /ProjetoTrilhaWeb/rest/marca/alterarStatus/11 HTTP/1.1" 200 30
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:18:06 -0300] "GET /ProjetoTrilhaWeb/rest/marca/buscar?valorBusca= HTTP/1.1" 200 183
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:18:12 -0300] "GET /ProjetoTrilhaWeb/rest/marca/carregar HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:20:18:12 -0300] "GET /ProjetoTrilhaWeb/rest/produto/buscar?valorBusca= HTTP/1.1" 200 610

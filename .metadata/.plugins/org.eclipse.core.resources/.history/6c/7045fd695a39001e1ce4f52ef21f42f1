@@ -1,0 +1,55 @@
+<script src="../../js/brand.js"></script>
+
+<h2>Registro de Marcas</h2>
+<form name="frmAddMarca" id="addMarca" class="frmInserir">
+	<fieldset>
+		<legend>Nova marca</legend>
+		<table>
+			<tr>
+				<th>Nome</th>
+				<td>
+					<input type="text" name="marca">
+				</td>
+				
+			</tr>
+			<tr>
+				<td colspan="2">
+					<button type="button" onclick="COLDIGO.marca.cadastrar()">Cadastrar</button>
+					<button type="reset">Limpar</button>
+				</td>
+			</tr>
+		</table>
+	</fieldset>
+</form>
+
+<h3>Marcas registradas</h3>
+<form id="filtraProduto" class="frmFiltrar">
+	<fieldset>
+		<legend>Filtrar</legend>
+		<input type="text" name="txtbusca" id="campoBuscaProduto" placeholder="Pesquise pelo nome">
+		<button type="button" onclick="COLDIGO.produto.buscar()">Buscar</button>
+	</fieldset>
+</form>
+<div id="listaProdutos" class="listaRegistros"></div>
+<div id="modalEditaProduto" class="modalEditar">
+	<form name="frmAddProduto" id="addProduto" class="frmInserir">
+		<fieldset>
+			<legend>Nova marca</legend>
+			<table>
+				<tr>
+					<th>Nome</th>
+					<td>
+						<input type="text" name="marca">
+					</td>
+					
+				</tr>
+				<tr>
+					<td colspan="2">
+						<button type="button" onclick="COLDIGO.marca.cadastrar()">Cadastrar</button>
+						<button type="reset">Limpar</button>
+					</td>
+				</tr>
+			</table>
+		</fieldset>
+	</form>
+</div>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent\WEB-INF\lib"/>
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent"/>
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent\pages\site"/>
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent\pages\admin\product"/>
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent\pages\admin\general"/>
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent\pages\admin"/>
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent\js"/>
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent\imgs"/>
+			<item value="C:\Users\mateus_alecrin\Desktop\Mateus\projeto-trilha-web\ProjetoTrilhaWeb\WebContent\css"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.wst.server.ui.new.server"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.server.ui"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item key="allPersp" value="false"/>
+		<item key="sort" value="0"/>
+		<list key="bounds">
+			<item value="284"/>
+			<item value="0"/>
+			<item value="798"/>
+			<item value="553"/>
+		</list>
+		<list key="columns">
+			<item value="252"/>
+			<item value="506"/>
+		</list>
+	</section>
+</section>

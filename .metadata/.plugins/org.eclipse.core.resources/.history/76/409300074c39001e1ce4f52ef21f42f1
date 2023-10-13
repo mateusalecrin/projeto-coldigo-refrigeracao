@@ -1,0 +1,10 @@
+COLDIGO.marca = new Object();
+
+$(document).ready(function() {
+	
+	COLDIGO.marca.cadastrar = function(){ 
+		
+		
+	}
+	
+});

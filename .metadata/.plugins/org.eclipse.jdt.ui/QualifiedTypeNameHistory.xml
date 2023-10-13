@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.coldigogeladeiras.jdbcinterface.MarcaDAO"/>
+    <fullyQualifiedTypeName name="br.com.coldigogeladeiras.jdbc.JDBCMarcaDAO"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.Response.StatusType"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.Response.ResponseBuilder"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="br.com.coldigogeladeiras.bd.Conexao"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="br.com.coldigogeladeiras.jdbc.JDBCProdutoDAO"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.POST"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Consumes"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.QueryParam"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.PathParam"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.DELETE"/>
+    <fullyQualifiedTypeName name="jakarta.json.JsonObject"/>
+    <fullyQualifiedTypeName name="com.google.gson.JsonObject"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.PUT"/>
+    <fullyQualifiedTypeName name="br.com.coldigogeladeiras.modelo.Marca"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
